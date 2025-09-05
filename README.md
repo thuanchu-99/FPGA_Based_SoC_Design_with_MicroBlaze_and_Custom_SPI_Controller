@@ -29,7 +29,7 @@ Block Design (Vivado IP Integrator):
 - **Power Supply**: External PSU.  
 
 Board setup example:  
-![FPGA Board](.\Image\c133b765-f9de-4e9b-b467-96e18dc44064.jpg)
+![FPGA Board](./Image/c133b765-f9de-4e9b-b467-96e18dc44064.jpg)
 
 ---
 
